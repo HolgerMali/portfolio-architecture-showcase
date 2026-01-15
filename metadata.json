@@ -1,0 +1,5 @@
+{
+  "name": "LegacyRefactor AI V0.1",
+  "description": "An intelligent assistant that modernizes legacy PHP code into Python FastAPI and Pydantic models while performing deep security audits using Gemini 3.0.",
+  "requestFramePermissions": []
+}
