@@ -11,6 +11,15 @@
 
 ---
 
+## 🎥 See it in Action
+**Watch the "Chain of Thought" agents migrate legacy PHP to Pydantic/FastAPI in real-time.**
+
+https://github.com/user-attachments/assets/9beb99ee-f339-46d7-809e-5bc57daf3830
+
+> *Note: The video showcases the full process including the **Auditor's security report** and **Raw LLM Logs** at the end (proving live agent interaction).*
+
+---
+
 ## 📉 The Problem: The Silent Business Killer
 
 In the enterprise landscape, 20-year-old legacy codebases (like the osCommerce PHP example included in this demo) represent a critical business risk. 
